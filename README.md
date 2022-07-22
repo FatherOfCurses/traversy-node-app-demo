@@ -25,3 +25,4 @@ https://youtu.be/SBvmnHTQIPY
 13. [cross-env](https://www.npmjs.com/package/cross-env): allows for cross-OS env variables
 14. [Materialize](https://materializecss.com/): Material Design-based framework
 15. [Font Awesome](https://fontawesome.com/): Icon Library
+16. [CKEditor](https://ckeditor.com/): Simple WYSIWYG Editor
