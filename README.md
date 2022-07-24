@@ -3,6 +3,9 @@
 Implementation of demo from the following video:
 https://youtu.be/SBvmnHTQIPY
 
+Create a basic story posting application with an HTML editor. Application has OAuth login and users are limited to editing or deleting only their stories.
+App features a public story view and a view for a user to see all their stories. Stories can be edited or deleted after creation. Sessions and stories are stores in a Mongo database.
+
 ## Features
 * MongoDB connectivity
 * Google OAuth for authentication
